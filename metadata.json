@@ -1,0 +1,6 @@
+{
+  "name": "Shreeyans Raj — Personal Digital Archive",
+  "description": "A personal digital archive by Shreeyans Raj. Crafted with intent. Defined by precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
